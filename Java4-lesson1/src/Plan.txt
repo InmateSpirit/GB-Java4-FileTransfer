@@ -1,0 +1,22 @@
+1. Server
+  a. code for commands.
+   - dowload
+   - upload
+   - create folder
+   - delete file/folder
+   - get list of files
+   - get list of folders
+   - change name of file/folder
+   - duplicate
+
+  b. connection with DB.
+   - DB authorize
+   - DB create user
+   - DB modify user(change name or password)
+
+2. Client
+  a. code for commands.
+   - same as Server.
+  b. Authorize or Create user.
+  c. UI (JavaFX)
+
